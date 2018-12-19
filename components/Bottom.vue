@@ -44,7 +44,7 @@
                       <v-icon class="orange--text text--lighten-2">phone</v-icon>
                     </v-list-tile-action>
                     <v-list-tile-content>
-                      <v-list-tile-title>666-666-666</v-list-tile-title>
+                      <v-list-tile-title>505-721-759</v-list-tile-title>
                     </v-list-tile-content>
                   </v-list-tile>
                   <v-list-tile>
@@ -60,7 +60,15 @@
                       <v-icon class="orange--text text--lighten-2">email</v-icon>
                     </v-list-tile-action>
                     <v-list-tile-content>
-                      <v-list-tile-title>daniel@rupinski.com</v-list-tile-title>
+                      <v-list-tile-title>daniel-rupinski@wp.pl</v-list-tile-title>
+                    </v-list-tile-content>
+                  </v-list-tile>
+                  <v-list-tile>
+                    <v-list-tile-action>
+                      <v-icon class="orange--text text--lighten-2">face</v-icon>
+                    </v-list-tile-action>
+                    <v-list-tile-content>
+                      <v-list-tile-title><a href="https://facebook.com/daniel.rupinski">Facebook</a></v-list-tile-title>
                     </v-list-tile-content>
                   </v-list-tile>
                 </v-list>

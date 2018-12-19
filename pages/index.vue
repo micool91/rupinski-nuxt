@@ -1,42 +1,78 @@
 <template>
 <div>
 
-
-<div class="card card-1">
-  <h2>Płyta już niedługo!</h2>
-  <i><h4>16 grudnia 2018</h4></i>
+ <div class="card card-1">
+  <h2>Koncert promujący debiutancką płytę</h2>
+  <i><h4>11 grudnia 2018</h4></i>
   <hr>
   <br>
-  <img class="model-image" src="https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/47043816_2027327717348409_3325554350788444160_n.jpg?_nc_cat=104&_nc_ht=scontent-waw1-1.xx&oh=baefb861fe34292299fc7de53150dac5&oe=5C926291" alt="Filharmonia">
-  <p>Trwają przygotowania do wydania płyty...</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a porta sem. Proin at bibendum purus. Aenean eget consectetur dolor. Vestibulum vestibulum quam nec erat varius, et pellentesque ipsum suscipit. Sed tempor varius arcu non lacinia. Fusce id egestas erat. Cras pulvinar euismod nunc. Sed cursus augue non ipsum dictum, ac posuere elit egestas. Fusce pellentesque aliquam nisl sit amet malesuada.</p>
-  <p>Curabitur sed diam eu leo faucibus euismod. Maecenas sollicitudin sed quam in tempor. Quisque et feugiat tellus. Donec nisi nulla, laoreet et vulputate eget, mollis a enim. Donec lectus massa, pulvinar non erat nec, aliquet vestibulum nulla. Maecenas ex risus, tincidunt nec quam vel, porttitor tincidunt felis. Sed sed suscipit ex, vitae viverra eros. Donec a neque lorem. Aenean nunc elit, rhoncus vitae dolor ut, molestie molestie sapien. Vivamus mattis tempor elit, vel interdum nibh ultricies sed. Integer magna massa, aliquam convallis nunc quis, consectetur faucibus lacus. Duis vel sem at velit rutrum consectetur. Lectus arcu tincidunt metus, a gravida nunc tortor sit amet leo.</p>
-<br><br>
+  <p>Marzenia się spełniają! Oto pierwsza relacja z koncertu promującego debiutancką płytę Daniela „Sercem widzę więcej”. Relacja do obejrzenia <a href="https://www.facebook.com/TVP3Olsztyn/videos/vb.328790637250849/367365680476713/?type=2&theater">TUTAJ</a>.</p>
+  <br>
+</div> 
+
+<div class="card card-1">
+  <h2>Koncert</h2>
+  <i><h4>7 grudnia 2018</h4></i>
+  <hr>
+  <br>
+  <p>Serdecznie zapraszamy na koncert promujący debiutancką płytę Daniela Rupińskiego w ramach projektu „Sercem widzę więcej” zrealizowanego przy współudziale finansowym Gminy Olsztyn. Koncert odbędzie się 11 grudnia o godzinie 17.30 w Sali Kameralnej Amfiteatru im. Czesława Niemena w Olsztynie.
+Dziękujemy za pomoc w realizacji projektu <a href="https://www.facebook.com/StudioKontra/">Studio Kontra</a> oraz <a href="https://www.facebook.com/batstudio/">Bat Studio</a>.</p>
+  <br>
 </div>
 
 <div class="card card-1">
-  <h2>Płyta już niedługo!</h2>
-  <i><h4>16 grudnia 2018</h4></i>
+  <h2>Debiutancki album już niedługo!</h2>
+  <i><h4>6 grudnia 2018</h4></i>
   <hr>
   <br>
-  <img class="model-image" src="05m.jpg" alt="Filharmonia">
-  <p>Trwają przygotowania do wydania płyty...</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a porta sem. Proin at bibendum purus. Aenean eget consectetur dolor. Vestibulum vestibulum quam nec erat varius, et pellentesque ipsum suscipit. Sed tempor varius arcu non lacinia. Fusce id egestas erat. Cras pulvinar euismod nunc. Sed cursus augue non ipsum dictum, ac posuere elit egestas. Fusce pellentesque aliquam nisl sit amet malesuada.</p>
-  <p>Curabitur sed diam eu leo faucibus euismod. Maecenas sollicitudin sed quam in tempor. Quisque et feugiat tellus. Donec nisi nulla, laoreet et vulputate eget, mollis a enim. Donec lectus massa, pulvinar non erat nec, aliquet vestibulum nulla. Maecenas ex risus, tincidunt nec quam vel, porttitor tincidunt felis. Sed sed suscipit ex, vitae viverra eros. Donec a neque lorem. Aenean nunc elit, rhoncus vitae dolor ut, molestie molestie sapien. Vivamus mattis tempor elit, vel interdum nibh ultricies sed. Integer magna massa, aliquam convallis nunc quis, consectetur faucibus lacus. Duis vel sem at velit rutrum consectetur. Lectus arcu tincidunt metus, a gravida nunc tortor sit amet leo.</p>
-<br><br>
+  <p>Zakończyliśmy pracę nad debiutanckim albumem „Sercem widzę więcej”. Cztery dni nagrań za nami, a efekty już wkrótce.</p>
+  <img class="model-image" src="~/assets/21.jpg">
+  <img class="model-image" src="~/assets/22.jpg">
+  <img class="model-image" src="~/assets/23.jpg">
+  <br>
+</div>
+
+<div class="card card-1">
+  <h2>Sesja fotograficzna</h2>
+  <i><h4>30 listopad 2018</h4></i>
+  <hr>
+  <br>
+  <p>Ruszyły sesje fotograficzne, z których zdjęcia posłużą do promocji płyty Daniela Rupińskiego „Sercem widzę więcej”.</p>
+  <img class="model-image" src="~/assets/11.jpg">
+  <img class="model-image" src="~/assets/13.png">
+  <img class="model-image" src="~/assets/12.jpg">
+  <br>
+</div>
+
+<div class="card card-1">
+  <h2>Dni Olsztyna</h2>
+  <i><h4>25 lipiec 2018</h4></i>
+  <hr>
+  <br>
+  <p>Daniel Rupiński wystąpił na Dniach Olsztyna organizowanych przez Miejski Ośrodek Kultury. Na Scenie Staromiejskiej pojawili się również lokalni artyści tacy jak Paweł Ejzenberg oraz Sara Szymczak</p>
+  <br>
+</div>
+
+<div class="card card-1">
+  <h2>Reha for the Blind in Poland</h2>
+  <i><h4>28 czerwiec 2018</h4></i>
+  <hr>
+  <br>
+  <p>28 czerwca 2018r. odbyła się regionalna edycja konferencji Reha for the Blind in Poland, na której Daniel zaprezentował swój cały repertuar.</p>
+  <br>
 </div>
 
 <div class="card card-1">
   <h2>Koncert</h2>
-  <i><h4>11 grudnia 2018</h4></i>
+  <i><h4>26 styczeń 2018</h4></i>
   <hr>
   <br>
-  <img class="model-image" src="https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/48361017_2041679599246554_2982164173510672384_n.jpg?_nc_cat=102&_nc_ht=scontent-waw1-1.xx&oh=27c78d651c9cd20432fab1fb5b320bdd&oe=5CD7FE76" alt="Ratusz Miejski">
-  <p>Tyflopunkt w Olsztynie serdecznie zaprasza na koncert promujący debiutancką płytę Daniela Rupińskiego w ramach projektu „Sercem widzę więcej”
- zrealizowanego przy współudziale finansowym Gminy Olsztyn. 
-Koncert odbędzie się 11 grudnia o godzinie 17.30 w Sali Kameralnej Amfiteatru im. Czesława Niemena w Olsztynie.
-Wstęp wolny, rezerwacja miejsc pod numerem 695966540 Dziękujemy za pomoc w realizacji projektu Studio Kontra oraz Bat Studio.</p>
-<br><br>
+  <p>W piątek 26 stycznia w Muzotece, w Olsztynie odbył się koncert „Widzieć Więcej”, na którym wystąpił Daniel Rupiński.</p>
+  <p>Swoją obecnością zaszczyciła nas również Pani Dyrektor Wydziału Kultury i Ochrony Zabytków Urzędu Miasta w Olsztynie. Frekwencja przerosła nasze najśmielsze oczekiwania, a wydarzenie spotkało się z bardzo pozytywnym odbiorem z czego bardzo się cieszymy.</p>
+  <img class="model-image" src="~/assets/01.jpg">
+  <img class="model-image" src="~/assets/02.jpg">
+  <img class="model-image" src="~/assets/03.jpg">
+  <br>
 </div>
 
 

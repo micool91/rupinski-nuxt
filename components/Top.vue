@@ -36,9 +36,9 @@
               round color="orange"
               large
               light
-              href="/music"
+              href="/concerts"
             >
-              Muzyka
+              Koncerty
             </v-btn>
 
             <v-btn
