@@ -2,16 +2,16 @@
     <section>
         <v-parallax src="bottom.jpg" height="380">
           <v-layout column align-center justify-center>
-            <div class="headline white--text mb-3 text-xs-center" style="background-color: rgba(0,0,0,.5);">Płyta "Sercem widzę więcej"</div>
-            <em style="background-color: rgba(0,0,0,.5);">W przygotowaniu...</em>
+            <div class="headline white--text mb-3 text-xs-center" style="background-color: rgba(0,0,0,.5);">Album "Sercem widzę więcej"</div>
+            <em style="background-color: rgba(0,0,0,.5);">Trawają przygotowania do wydania debiutanckiego albumu...</em>
             <br>
             <v-btn
               round color="orange"
               large
               light
-              href="/"
+              
             >
-              Zamów płytę tutaj!
+              Zamów płytę już wkrótce!
             </v-btn>
           </v-layout>
         </v-parallax>
@@ -24,9 +24,9 @@
                   <div class="headline">Oferta</div>
                 </v-card-title>
                 <v-card-text>
-                  Cras facilisis mi vitae nunc lobortis pharetra. Nulla volutpat tincidunt ornare. 
-                  Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. 
-                  Nullam in aliquet odio. Aliquam eu est vitae tellus bibendum tincidunt. Suspendisse potenti. 
+                 Oprawa ślubna w kościele (Mendelsohn, Bartholdy, Giulio Caccini, Jan Sebastian Bach, Franz Schubert oraz repertuar dobierany dla każdej Młodej Pary indywidualnie).
+
+Koncerty, festyny, koncerty kameralne itp. (Ellia Fitzgerald, Franka Sinatry, Nat King Cole, piosenki do tekstów poety Marcina Urbana, muzyka popularna i do tańca.
                 </v-card-text>
               </v-card>
             </v-flex>

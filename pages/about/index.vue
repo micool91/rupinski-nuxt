@@ -11,6 +11,7 @@ Daniela można usłyszeć codziennie o godzinie 12:00, jak gra na trąbce na bal
 </template>
 
 
+
 <style scoped>
 h1 {
   text-align: center;
@@ -19,11 +20,10 @@ h1 {
 .card {
   background: #fff;
   border-radius: 2px;
-  display: inline-block;
   margin: 1rem;
   position: relative;
-  width: 98%;
   padding: 30px;
+  max-width: 98%;
 }
 
 .card-1 {
@@ -33,10 +33,10 @@ h1 {
 
 a {
   text-decoration: none;
-  color: #3b8070;
+  color:#b16a00;
 }
 a:hover {
-  color: #41b883;
+  color: #dfb380;
   text-decoration: underline;
 }
 
@@ -46,12 +46,15 @@ p {
 }
 
 img {
-    max-height: 800px;
-    padding: 0px;
+    max-height: 1000px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
     box-shadow: 0 1px 30px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    margin-right: 40px; 
+    margin-block-start: 40px; 
+    max-width: 100%;
+    height: auto;
 }
 </style>

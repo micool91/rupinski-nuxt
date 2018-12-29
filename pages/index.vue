@@ -26,9 +26,9 @@ Dziękujemy za pomoc w realizacji projektu <a href="https://www.facebook.com/Stu
   <hr>
   <br>
   <p>Zakończyliśmy pracę nad debiutanckim albumem „Sercem widzę więcej”. Cztery dni nagrań za nami, a efekty już wkrótce.</p>
-  <img class="model-image" src="~/assets/21.jpg">
-  <img class="model-image" src="~/assets/22.jpg">
-  <img class="model-image" src="~/assets/23.jpg">
+  <img src="~/assets/21.jpg">
+  <img src="~/assets/22.jpg">
+  <img src="~/assets/23.jpg">
   <br>
 </div>
 
@@ -38,9 +38,9 @@ Dziękujemy za pomoc w realizacji projektu <a href="https://www.facebook.com/Stu
   <hr>
   <br>
   <p>Ruszyły sesje fotograficzne, z których zdjęcia posłużą do promocji płyty Daniela Rupińskiego „Sercem widzę więcej”.</p>
-  <img class="model-image" src="~/assets/11.jpg">
-  <img class="model-image" src="~/assets/13.png">
-  <img class="model-image" src="~/assets/12.jpg">
+  <img src="~/assets/11.jpg">
+  <img src="~/assets/13.png">
+  <img src="~/assets/12.jpg">
   <br>
 </div>
 
@@ -49,7 +49,7 @@ Dziękujemy za pomoc w realizacji projektu <a href="https://www.facebook.com/Stu
   <i><h4>25 lipiec 2018</h4></i>
   <hr>
   <br>
-  <p>Daniel Rupiński wystąpił na Dniach Olsztyna organizowanych przez Miejski Ośrodek Kultury. Na Scenie Staromiejskiej pojawili się również lokalni artyści tacy jak Paweł Ejzenberg oraz Sara Szymczak</p>
+  <p>Daniel Rupiński wystąpił na Dniach Olsztyna organizowanych przez Miejski Ośrodek Kultury. Na Scenie Staromiejskiej pojawili się również lokalni artyści tacy jak Paweł Ejzenberg oraz Sara Szymczak.</p>
   <br>
 </div>
 
@@ -69,15 +69,16 @@ Dziękujemy za pomoc w realizacji projektu <a href="https://www.facebook.com/Stu
   <br>
   <p>W piątek 26 stycznia w Muzotece, w Olsztynie odbył się koncert „Widzieć Więcej”, na którym wystąpił Daniel Rupiński.</p>
   <p>Swoją obecnością zaszczyciła nas również Pani Dyrektor Wydziału Kultury i Ochrony Zabytków Urzędu Miasta w Olsztynie. Frekwencja przerosła nasze najśmielsze oczekiwania, a wydarzenie spotkało się z bardzo pozytywnym odbiorem z czego bardzo się cieszymy.</p>
-  <img class="model-image" src="~/assets/01.jpg">
-  <img class="model-image" src="~/assets/02.jpg">
-  <img class="model-image" src="~/assets/03.jpg">
+  <img src="~/assets/01.jpg">
+  <img src="~/assets/02.jpg">
+  <img src="~/assets/03.jpg">
   <br>
 </div>
 
 
 </div>
 </template>
+
 
 
 <style scoped>
@@ -88,11 +89,10 @@ h1 {
 .card {
   background: #fff;
   border-radius: 2px;
-  display: inline-block;
   margin: 1rem;
   position: relative;
-  width: 98%;
   padding: 30px;
+  max-width: 98%;
 }
 
 .card-1 {
@@ -102,10 +102,10 @@ h1 {
 
 a {
   text-decoration: none;
-  color: #3b8070;
+  color:#b16a00;
 }
 a:hover {
-  color: #41b883;
+  color: #dfb380;
   text-decoration: underline;
 }
 
@@ -115,20 +115,15 @@ p {
 }
 
 img {
-    max-height: 800px;
-    padding: 0px;
+    max-height: 430px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
     box-shadow: 0 1px 30px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
-}
-
-.model-image {
-  display: block;
-  margin-left: auto;
-  margin-right: 20px;
-  max-width: 30%;
-  float: left;
+    margin-right: 40px; 
+    margin-block-start: 40px; 
+    max-width: 100%;
+    height: auto;
 }
 </style>

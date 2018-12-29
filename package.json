@@ -5,9 +5,9 @@
   "author": "Michał Jakóbowski",
   "private": true,
   "scripts": {
-    "dev": "HOST=207.154.236.217 PORT=9999 nuxt",
+    "dev": "nuxt",
     "build": "nuxt build",
-    "start": "nuxt start",
+    "start": "HOST=207.154.236.217 PORT=9999 nuxt start",
     "generate": "nuxt generate",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
     "precommit": "npm run lint"

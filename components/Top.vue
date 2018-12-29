@@ -7,10 +7,12 @@
             justify-center
             class="white--text"
           >
-            <img src="~/assets/trumpet.svg" alt="Daniel Rupiński" height="200">
+            <br><br><br><br><br>
             <br>
-            <h1 class="white--text mb-2 display-1 text-xs-center" style="background-color: rgba(0,0,0,.5);">Daniel Rupiński</h1>
-            <div class="subheading mb-3 text-xs-center" style="background-color: rgba(0,0,0,.5);"><i>trąbka, pianino, akordeon</i></div>
+            <div>
+            <h1 class="white--text mb-2 display-1 text-xs-center" style="background-color: rgba(0,0,0,.5); padding: 20px;">Daniel Rupiński</h1>
+            <div class="subheading mb-3 text-xs-center" style="background-color: rgba(0,0,0,.5);"><i>zapraszam do mojego świata...</i></div>
+            </div>
             
             <br><br>
             <div class="text-xs-center">

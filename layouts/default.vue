@@ -7,7 +7,7 @@
       <Top />
       
       <nuxt />
-
+     
       <Bottom />
       
     </v-content>
@@ -43,8 +43,7 @@ import Bottom from "@/components/Bottom";
 
 <style>
 html {
-  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI",
-    Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: "Montserrat", sans-serif;
   color: #526488;
   font-size: 16px;
   word-spacing: 1px;
@@ -63,7 +62,7 @@ h4,
 h5,
 h6 {
   font-family: "Montserrat", sans-serif;
-  color: #526488;
+  color: #886f52;
 }
 
 body,
@@ -71,4 +70,20 @@ html {
   height: 100%;
   background: #e2e1e0;
 }
+
+
+.card {
+  background: #fff;
+  border-radius: 2px;
+  margin: 1rem;
+  position: relative;
+  padding: 30px;
+  max-width: 98%;
+}
+
+.card-1 {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
 </style>
