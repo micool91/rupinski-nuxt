@@ -11,7 +11,7 @@
             <br>
             <div>
             <h1 class="white--text mb-2 display-1 text-xs-center" style="background-color: rgba(0,0,0,.5); padding: 20px;">Daniel Rupiński</h1>
-            <div class="subheading mb-3 text-xs-center" style="background-color: rgba(0,0,0,.5);"><i>zapraszam do mojego świata...</i></div>
+            <div class="subheading mb-3 text-xs-center" style="background-color: rgba(0,0,0,.5);"><i>Sercem widzę więcej</i></div>
             </div>
             
             <br><br>
@@ -20,7 +20,7 @@
               round color="orange"
               large
               light
-              href="/"
+              nuxt-link to="/"
             >
               Strona główna
             </v-btn>
@@ -29,7 +29,7 @@
               round color="orange"
               large
               light
-              href="/gallery"
+              nuxt-link to="/gallery"
             >
               Galeria
             </v-btn>
@@ -38,7 +38,7 @@
               round color="orange"
               large
               light
-              href="/concerts"
+              nuxt-link to="/concerts"
             >
               Koncerty
             </v-btn>
@@ -47,7 +47,7 @@
               round color="orange"
               large
               light
-              href="/about"
+              nuxt-link to="/about"
             >
               O mnie
             </v-btn>

@@ -3,15 +3,15 @@
         <v-parallax src="bottom.jpg" height="380">
           <v-layout column align-center justify-center>
             <div class="headline white--text mb-3 text-xs-center" style="background-color: rgba(0,0,0,.5);">Album "Sercem widzę więcej"</div>
-            <em style="background-color: rgba(0,0,0,.5);">Trawają przygotowania do wydania debiutanckiego albumu...</em>
+            <em style="background-color: rgba(0,0,0,.5);">Debiutancki album Daniela jest już gotowy!</em>
             <br>
             <v-btn
               round color="orange"
               large
               light
-              
+              nuxt-link to="/album"
             >
-              Zamów płytę już wkrótce!
+              Odbierz bezpłatny album!
             </v-btn>
           </v-layout>
         </v-parallax>
@@ -36,7 +36,7 @@ Koncerty, festyny, koncerty kameralne itp. (Ellia Fitzgerald, Franka Sinatry, Na
                   <div class="headline">Kontakt</div>
                 </v-card-title>
                 <v-card-text>
-                  Zapraszamy do kontaktu w celach biznesowych.
+                  Zapraszamy do współpracy.
                 </v-card-text>
                 <v-list class="transparent">
                   <v-list-tile>
@@ -68,7 +68,7 @@ Koncerty, festyny, koncerty kameralne itp. (Ellia Fitzgerald, Franka Sinatry, Na
                       <v-icon class="orange--text text--lighten-2">face</v-icon>
                     </v-list-tile-action>
                     <v-list-tile-content>
-                      <v-list-tile-title><a href="https://facebook.com/daniel.rupinski">Facebook</a></v-list-tile-title>
+                      <v-list-tile-title><a href="https://facebook.com/daniel.rupinski" target="_blank">Facebook</a></v-list-tile-title>
                     </v-list-tile-content>
                   </v-list-tile>
                 </v-list>

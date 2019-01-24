@@ -6,7 +6,7 @@
   <i><h4>11 grudnia 2018</h4></i>
   <hr>
   <br>
-  <p>Marzenia się spełniają! Oto pierwsza relacja z koncertu promującego debiutancką płytę Daniela „Sercem widzę więcej”. Relacja do obejrzenia <a href="https://www.facebook.com/TVP3Olsztyn/videos/vb.328790637250849/367365680476713/?type=2&theater">TUTAJ</a>.</p>
+  <p>Marzenia się spełniają! Oto pierwsza relacja z koncertu promującego debiutancką płytę Daniela „Sercem widzę więcej”. Relacja do obejrzenia <a href="https://www.facebook.com/TVP3Olsztyn/videos/vb.328790637250849/367365680476713/?type=2&theater" target="_blank">TUTAJ</a>.</p>
   <br>
 </div> 
 
@@ -16,7 +16,7 @@
   <hr>
   <br>
   <p>Serdecznie zapraszamy na koncert promujący debiutancką płytę Daniela Rupińskiego w ramach projektu „Sercem widzę więcej” zrealizowanego przy współudziale finansowym Gminy Olsztyn. Koncert odbędzie się 11 grudnia o godzinie 17.30 w Sali Kameralnej Amfiteatru im. Czesława Niemena w Olsztynie.
-Dziękujemy za pomoc w realizacji projektu <a href="https://www.facebook.com/StudioKontra/">Studio Kontra</a> oraz <a href="https://www.facebook.com/batstudio/">Bat Studio</a>.</p>
+Dziękujemy za pomoc w realizacji projektu <a href="https://www.facebook.com/StudioKontra/" target="_blank">Studio Kontra</a> oraz <a href="https://www.facebook.com/batstudio/" target="_blank">Bat Studio</a>.</p>
   <br>
 </div>
 

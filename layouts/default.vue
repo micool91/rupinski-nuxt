@@ -2,6 +2,7 @@
   <div id="app">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
    <v-app light>
+       <title>asdasd</title>
     <v-content>
       
       <Top />
@@ -35,9 +36,18 @@ import Bottom from "@/components/Bottom";
         miniVariant: false,
         right: true,
         rightDrawer: false,
-        title: 'Vuetify.js'
+        title: 'Daniel Rupiński - Sercem Widzę Wiecej'
       }
+    },
+    head () {
+    return {
+      title: this.title,
+      meta: [
+        // hid is used as unique identifier. Do not use `vmid` for it as it will not work
+        { hid: 'rupinski.TK - Daniel Rupiński - Sercem Widzę Wiecej', name: 'rupinski.TK - Daniel Rupiński - Sercem Widzę Wiecej', content: 'rupinski.TK - Daniel Rupiński - Sercem Widzę Wiecej' }
+      ]
     }
+  }
   }
 </script>
 
