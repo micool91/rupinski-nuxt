@@ -4,7 +4,7 @@
   <br>
   <br>
   <p>Debiutancki album Daniela jest już gotowy! Bezpłatny egzemplarz jest dostępny w <b>Tyflopunkcie Fundacji Szansa dla Niewidomych</b> pod adresem: ul. Erwina Kruka 39/415.</p>
-  <center><img src="~/assets/kruka.png" alt="Odbierz bezpłatny album."></center>
+  <center><img src="~/assets/kruka.jpg" alt="Odbierz bezpłatny album."></center>
 <br><br><br><br><br>
 </div>
 </template>
