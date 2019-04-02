@@ -1,6 +1,33 @@
 <template>
 <div>
 
+<div class="card card-1">
+  <h2>Nadchodzące wiosenne wydarzenia</h2>
+  <i><h4>kwiecień 2019</h4></i>
+  <hr>
+  <br>
+  <p>Wiosną Daniel nie próżnuje, oto lista najnowszych wydarzeń:</p>
+  <p>- 28 marca o godz. 07:30 - Daniel udzielił wywiadu w programie Wstaje Nowy Dzień telewizji TVP Olsztyn. Relację z tego wydarzenia można obejrzeć <a href="https://www.facebook.com/TVP3Olsztyn/videos/vb.328790637250849/367365680476713/?type=2&theater" target="_blank">TUTAJ</a>.</p>
+  <p>- 2 kwietnia o godz. 18:00 - koncert przed Olsztyńskim Ratuszem Miejskim z okazji obchodów Światowego Dnia Autyzmu</p>
+  <p>- 4 kwietnia o godz. 08:00 - spotanie z Danielem w Zespole Placówek Edukacyjnych w Olsztynie.</p>
+  <p>- 24 kwietnia o godz. 20:00 - można będzie usłyszeć Daniela na lotnisku w Szymanach, gdzie zagra on hejnał Krakowa oraz hymn Warmii.</p>
+  <br>
+</div> 
+
+<div class="card card-1">
+  <h2>Lekcja tolerancji "Patrz sercem"</h2>
+  <i><h4>marzec 2019</h4></i>
+  <hr>
+  <br>
+  <p>5 i 11 marca uczniowie Szkoły Podstawowej nr 22 mieli okazję poznać Daniela oraz jego żonę Justynę. Daniel został zaproszony na spotkanie z młodzieżą, aby opowiedział jak żyje się osobie niewidomej, z jakimi przeciwnościami musiał się zmierzyć w swoim życiu szkolnym oraz jak sobie z nimi radzi na co dzień jako dorosły niewidomy.</p>
+  <p>Daniel opowiedział uczniom o swoim dorastaniu, które było przepełnione ogromnym poczuciem niesprawiedliwości i żalem do Boga, że to własnie jego wybrał na osobę niewidomą. Z powodou swojej niepełnosprawności spotkało Daniela w szkole wiele nieprzyjemnych sytuacji, które były na tyle dotkliwe, że myślał nawet o popełnieniu samobójstwa. Momentem zwrotym w jego życiu było pogodzenie się z faktem, ze jest osobą niewidomą oraz rozpoczęcie nauki w szkole muzycznej w Olsztynie, gdzie ukończył I i II stopień grając na fortepianie, trąbce i akordeonie. Daniel wilokrotnie powtarzał, że ukończenie Szkoły Muzycznej zawdzięcza przede wszystkim rodzicom oraz nauczycielom.</p>
+  <p>„Jestem niepełnosprawny, ale za takiego się nie uważam” - mówił nasz gość. Daniel podkreślał, że bycie niewidomym nauczyło go „patrzeć” na ludzi sercem, że jest wolny od widzenia ludzkiej powierzchowności i oceniania człowieka przez pryzmat jego wyglądu. Jak sam mówił, chciałby być przykładem tego, że dzięki wlace z przeciwnościami, pokonywaniu własnych słabości, determinicaji w dążeniu do realizacji swoich marzeń i wdzięczności Bogu za każdy kolejny dzień, jest się w stanie osiągnąć szczyt swojej góry.</p>
+  <p>W trakcie spotań uczniowie mieli okazję na żywo usłyszeć hejnała zagrany na trąbce oraz utwory z najnowszej płyty Daniela.</p>
+  <p ALIGN=RIGHT>~ relacja Kingi Rurys</p>
+  <img src="~/assets/lekcjaTolerancji.png">
+  <br>
+</div> 
+
  <div class="card card-1">
   <h2>Koncert promujący debiutancką płytę</h2>
   <i><h4>11 grudnia 2018</h4></i>
