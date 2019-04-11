@@ -6,10 +6,12 @@
   <i><h4>kwiecień 2019</h4></i>
   <hr>
   <br>
-  <p>Wiosną Daniel nie próżnuje, oto lista najnowszych wydarzeń:</p>
+  <p>Oto lista najnowszych, wiosennych wydarzeń:</p>
   <p>- 28 marca o godz. 07:30 - Daniel udzielił wywiadu w programie Wstaje Nowy Dzień telewizji TVP Olsztyn. Relację z tego wydarzenia można obejrzeć <a href="https://www.facebook.com/TVP3Olsztyn/videos/vb.328790637250849/367365680476713/?type=2&theater" target="_blank">TUTAJ</a>.</p>
   <p>- 2 kwietnia o godz. 18:00 - koncert przed Olsztyńskim Ratuszem Miejskim z okazji obchodów Światowego Dnia Autyzmu</p>
   <p>- 4 kwietnia o godz. 08:00 - spotanie z Danielem w Zespole Placówek Edukacyjnych w Olsztynie.</p>
+  <p>- 4 kwietnia o godz. 16:00 - koncert oraz spotkanie w miejscowości Ameryka, koło Olsztynka, relację z wydarzenia można obejrzeć <a href="https://youtu.be/JaDsp0vwESM" target="_blank">TUTAJ</a>.</p>
+  <p>- 10 kwietnia o godz. 9:00 - koncert i spotkanie w Przedszkolu Bajkowy Dom w Olsztynie.</p>
   <p>- 24 kwietnia o godz. 20:00 - można będzie usłyszeć Daniela na lotnisku w Szymanach, gdzie zagra on hejnał Krakowa oraz hymn Warmii.</p>
   <br>
 </div> 
