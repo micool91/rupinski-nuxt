@@ -13,6 +13,8 @@
   <p>- 4 kwietnia o godz. 16:00 - koncert oraz spotkanie w miejscowości Ameryka, koło Olsztynka, relację z wydarzenia można obejrzeć <a href="https://youtu.be/JaDsp0vwESM" target="_blank">TUTAJ</a>.</p>
   <p>- 10 kwietnia o godz. 9:00 - koncert i spotkanie w Przedszkolu Bajkowy Dom w Olsztynie.</p>
   <p>- 24 kwietnia o godz. 20:00 - można będzie usłyszeć Daniela na lotnisku w Szymanach, gdzie zagra on hejnał Krakowa oraz hymn Warmii.</p>
+  <p>- 5 maja o godz. 12:30 - tuż po hejnale na scenie Staromiejskiej promocja płyty w ramach akcji Caritas Biała Niedziela.</p>
+  <p>- 8 maja o godz. 10:00 - spotkanie w ośrodku Laurentius na Redykajnach w ramach promocji płyty.</p>
   <br>
 </div> 
 
