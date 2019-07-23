@@ -2,6 +2,16 @@
 <div>
 
 <div class="card card-1">
+  <h2>Wywiad</h2>
+  <i><h4>13 lipca 2019</h4></i>
+  <hr>
+  <br>
+  <p>Poniżej przedstawiamy film, w którym Daniel Rupiński opowiada jak to się stało, że został olsztyńskim hejnalistą i już blisko 10 lat – nieomal codziennie – wykonuje z ratuszowego balkonu hejnał Olsztyna skomponowany przez Feliksa Nowowiejskiego: O Warmio moja miła.</p>
+  <center><iframe width="560" height="315" src="https://www.youtube.com/embed/U1v7BCZYTbE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+  <br>
+</div> 
+
+<div class="card card-1">
   <h2>Nadchodzące wiosenne wydarzenia</h2>
   <i><h4>kwiecień 2019</h4></i>
   <hr>
