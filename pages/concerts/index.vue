@@ -3,7 +3,14 @@
   <h1>Koncerty</h1>
   <br>
   <br>
-  <p>Oto lista najnowszych, wiosennych wydarzeń na 2019 rok:</p>
+
+  <b><i><p align=CENTER>Najnowsze wydarzenia związane z WOŚP 2020:</p></i></b>
+  <p>- 10 stycznia o godz. 16:30 - Występ w Szkole Podstawowej nr 29 w Olsztynie.</p>
+  <p>- 12 stycznia o godz. 13:00 - Występ w Zespole Placówek Edukacyjnych w Olsztynie.</p>
+  <p>- 12 stycznia o godz. 16:30 - Występ w Miejskim Ośrodku Kultury w Jezioranach.</p>
+  <br>
+  <br>
+  <b><i><p align=CENTER>Wydarzenia z roku 2019:</p></i></b>
   <p>- 28 marca o godz. 07:30 - Daniel udzielił wywiadu w programie Wstaje Nowy Dzień telewizji TVP Olsztyn. Relację z tego wydarzenia można obejrzeć <a href="https://www.facebook.com/TVP3Olsztyn/videos/vb.328790637250849/367365680476713/?type=2&theater" target="_blank">TUTAJ</a>.</p>
   <p>- 2 kwietnia o godz. 18:00 - koncert przed Olsztyńskim Ratuszem Miejskim z okazji obchodów Światowego Dnia Autyzmu</p>
   <p>- 4 kwietnia o godz. 08:00 - spotanie z Danielem w Zespole Placówek Edukacyjnych w Olsztynie.</p>
@@ -14,7 +21,7 @@
   <p>- 8 maja o godz. 10:00 - spotkanie w ośrodku Laurentius na Redykajnach w ramach promocji płyty.</p>
   <br>
   <br>
-  <i><p align=CENTER>Ubiegłoroczne wydarzenia:</p></i>
+  <b><i><p align=CENTER>Wydarzenia z roku 2018:</p></i></b>
   <center><img src="~/assets/concert.jpg" alt="Koncert"></center>
 <br><br><br><br><br>
 </div>

@@ -2,6 +2,19 @@
 <div>
 
 <div class="card card-1">
+  <h2>Występy w ramach Wielkiej Orkiestry Świątecznej Pomocy</h2>
+  <i><h4>9 stycznia 2020</h4></i>
+  <hr>
+  <center><img src="https://prowly-uploads.s3.eu-west-1.amazonaws.com/uploads/4843/assets/44275/00_logo_WOSP_podglad.jpg"></center>
+  <br>
+  <p>Oto lista wydarzeń związanych z <b>Wielką Orkiestrą Świątecznej Pomocy 2020</b>:</p>
+  <p>- 10 stycznia o godz. 16:30 - Występ w Szkole Podstawowej nr 29 w Olsztynie.</p>
+  <p>- 12 stycznia o godz. 13:00 - Występ w Zespole Placówek Edukacyjnych w Olsztynie.</p>
+  <p>- 12 stycznia o godz. 16:30 - Występ w Miejskim Ośrodku Kultury w Jezioranach.</p>
+  <br>
+</div> 
+
+<div class="card card-1">
   <h2>Wywiad</h2>
   <i><h4>13 lipca 2019</h4></i>
   <hr>
